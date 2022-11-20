@@ -3,4 +3,4 @@ nbclient
 pandas
 pygsheets
 pymssql
-
+pretty-html-table
