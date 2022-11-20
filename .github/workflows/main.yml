@@ -30,7 +30,7 @@ jobs:
           python-version: '3.9'
           cache: 'pip'
       - run: pip install -r requirements.txt
-             pip install SMTP
+             #pip install SMTP
              pip install pretty_html_table
 
       - id: jupyter 
