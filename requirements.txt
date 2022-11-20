@@ -4,3 +4,4 @@ pandas
 pygsheets
 pymssql
 pretty-html-table
+smtplib
