@@ -1,0 +1,7 @@
+jupyterlab
+nbclient
+pandas
+pygsheets
+pymssql
+SMTP
+pretty_html_table
