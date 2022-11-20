@@ -29,7 +29,9 @@ jobs:
         with:
           python-version: '3.9'
           cache: 'pip'
-      - run: pip install -r requirements.txt
+      - run:
+          pip install --upgrade pip 
+          pip install -r requirements.txt
 
       - id: jupyter 
         name: Jupyter Notebook Execution
